@@ -1,5 +1,0 @@
-F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.ConsoleService\bin\Debug\ProjectManagement.ConsoleService.dll
-F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.ConsoleService\bin\Debug\ProjectManagement.ConsoleService.pdb
-F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.ConsoleService\obj\Debug\ProjectManagement.ConsoleService.csprojResolveAssemblyReference.cache
-F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.ConsoleService\obj\Debug\ProjectManagement.ConsoleService.dll
-F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.ConsoleService\obj\Debug\ProjectManagement.ConsoleService.pdb

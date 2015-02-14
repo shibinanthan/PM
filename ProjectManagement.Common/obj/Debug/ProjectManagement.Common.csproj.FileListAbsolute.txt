@@ -3,3 +3,8 @@ F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.Common\bin\Debug\
 F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.Common\obj\Debug\ProjectManagement.Common.csprojResolveAssemblyReference.cache
 F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.Common\obj\Debug\ProjectManagement.Common.dll
 F:\Mabi\Careers\Practices\ProjectManagement-cognos\eAssessment.Common\obj\Debug\ProjectManagement.Common.pdb
+F:\Mabi\Careers\Practices\PM\ProjectManagement.Common\obj\Debug\ProjectManagement.Common.csprojResolveAssemblyReference.cache
+F:\Mabi\Careers\Practices\PM\ProjectManagement.Common\obj\Debug\ProjectManagement.Common.dll
+F:\Mabi\Careers\Practices\PM\ProjectManagement.Common\obj\Debug\ProjectManagement.Common.pdb
+F:\Mabi\Careers\Practices\PM\ProjectManagement.Common\bin\Debug\ProjectManagement.Common.dll
+F:\Mabi\Careers\Practices\PM\ProjectManagement.Common\bin\Debug\ProjectManagement.Common.pdb
