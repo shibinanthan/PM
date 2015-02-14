@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsole", "WebConsole\We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsole.Tests", "WebConsole.Tests\WebConsole.Tests.csproj", "{42B72C90-C32E-4432-967F-A0F1CDEEF4F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.Common", "eAssessment.Common\ProjectManagement.Common.csproj", "{9F6E4343-3A2D-444E-BB75-EA83B0199636}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.Common", "ProjectManagement.Common\ProjectManagement.Common.csproj", "{9F6E4343-3A2D-444E-BB75-EA83B0199636}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.ConsoleService", "eAssessment.ConsoleService\ProjectManagement.ConsoleService.csproj", "{85F7470A-354A-4EFB-802A-4813A5E72431}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.ConsoleService", "ProjectManagement.ConsoleService\ProjectManagement.ConsoleService.csproj", "{85F7470A-354A-4EFB-802A-4813A5E72431}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

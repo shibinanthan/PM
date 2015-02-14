@@ -1,1 +1,2 @@
 F:\Mabi\Careers\Practices\ProjectManagement-cognos\WebConsole\obj\Debug\WebConsole.csprojResolveAssemblyReference.cache
+F:\Mabi\Careers\Practices\PM\WebConsole\obj\Debug\WebConsole.csprojResolveAssemblyReference.cache
