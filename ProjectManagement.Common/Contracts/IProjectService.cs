@@ -8,7 +8,7 @@ using System.ServiceModel;
 namespace ProjectManagement.Common.Contracts
 {
     [ServiceContract]
-    interface IProjectService
+    public interface IProjectService
     {
         [OperationContract(Name = "ValidateUser")]
         bool ValidateUser(PMUser user);

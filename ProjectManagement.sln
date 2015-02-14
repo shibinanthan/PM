@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebConsole.Tests", "WebCons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.Common", "ProjectManagement.Common\ProjectManagement.Common.csproj", "{9F6E4343-3A2D-444E-BB75-EA83B0199636}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectManagement.ConsoleService", "ProjectManagement.ConsoleService\ProjectManagement.ConsoleService.csproj", "{C705DCCB-57C2-4A54-99D9-B2B0E432A25A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9F6E4343-3A2D-444E-BB75-EA83B0199636}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6E4343-3A2D-444E-BB75-EA83B0199636}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6E4343-3A2D-444E-BB75-EA83B0199636}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C705DCCB-57C2-4A54-99D9-B2B0E432A25A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C705DCCB-57C2-4A54-99D9-B2B0E432A25A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C705DCCB-57C2-4A54-99D9-B2B0E432A25A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C705DCCB-57C2-4A54-99D9-B2B0E432A25A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

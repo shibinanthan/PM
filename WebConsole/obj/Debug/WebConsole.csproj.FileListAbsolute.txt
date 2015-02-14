@@ -60,3 +60,5 @@ F:\Mabi\Careers\Practices\PM\WebConsole\bin\System.Web.WebPages.Deployment.xml
 F:\Mabi\Careers\Practices\PM\WebConsole\bin\System.Web.WebPages.Razor.xml
 F:\Mabi\Careers\Practices\PM\WebConsole\obj\Debug\WebConsole.dll
 F:\Mabi\Careers\Practices\PM\WebConsole\obj\Debug\WebConsole.pdb
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\ProjectManagement.Common.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\ProjectManagement.Common.pdb
