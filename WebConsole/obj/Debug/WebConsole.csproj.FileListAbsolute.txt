@@ -62,3 +62,15 @@ F:\Mabi\Careers\Practices\PM\WebConsole\obj\Debug\WebConsole.dll
 F:\Mabi\Careers\Practices\PM\WebConsole\obj\Debug\WebConsole.pdb
 F:\Mabi\Careers\Practices\PM\WebConsole\bin\ProjectManagement.Common.dll
 F:\Mabi\Careers\Practices\PM\WebConsole\bin\ProjectManagement.Common.pdb
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.Configuration.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.xml
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.Configuration.xml
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.ServiceLocation.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.Mvc.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\WebActivatorEx.dll
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.ServiceLocation.pdb
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.ServiceLocation.xml
+F:\Mabi\Careers\Practices\PM\WebConsole\bin\Microsoft.Practices.Unity.Mvc.xml

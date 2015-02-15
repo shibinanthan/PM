@@ -8,13 +8,13 @@ using WebConsole.Interfaces;
 
 namespace WebConsole.Helpers
 {
-    public class ProductGateway : GatewayBase, IProjectGateway
+    public class ProjectGateway : GatewayBase, IProjectGateway
     {
-        private static ProductGateway instance = null;
+        private static ProjectGateway instance = null;
         private static string lockObject = "lock";
 
         //Singleton pattern implementation
-        public static ProductGateway Instance
+        public static ProjectGateway Instance
         {
             get
             {
@@ -22,7 +22,7 @@ namespace WebConsole.Helpers
                 {
                     if (instance == null)
                     {
-                        instance = new ProductGateway();
+                        instance = new ProjectGateway();
                     }
                     return instance;
                 }

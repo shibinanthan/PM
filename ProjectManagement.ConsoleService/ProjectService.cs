@@ -12,7 +12,7 @@ using ProjectManagement.Common.Contracts;
 namespace ProjectManagement.ConsoleService
 {
     [Serializable]
-    [ServiceBehavior(Name = "DataService", Namespace = "Productservice")]
+    [ServiceBehavior(Name = "ProjectService", Namespace = "ProjectManagement")]
     public class ProjectService : IProjectService
     {
         public bool ValidateUser(PMUser user)

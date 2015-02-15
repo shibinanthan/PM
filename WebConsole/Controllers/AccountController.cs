@@ -9,21 +9,31 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using WebConsole.Models;
+using WebConsole.Helpers;
+using WebConsole.Interfaces;
+using ProjectManagement.Common;
 
 namespace WebConsole.Controllers
 {
     [Authorize]
     public class AccountController : Controller
     {
-        public AccountController()
-            : this(new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext())))
+        public IProjectGateway _gateWay;
+
+        public AccountController(IProjectGateway gateWay)
         {
+            this._gateWay = gateWay;
         }
 
-        public AccountController(UserManager<ApplicationUser> userManager)
-        {
-            UserManager = userManager;
-        }
+        //public AccountController()
+        //    : this(new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ApplicationDbContext())))
+        //{
+        //}
+
+        //public AccountController(UserManager<ApplicationUser> userManager)
+        //{
+        //    UserManager = userManager;
+        //}
 
         public UserManager<ApplicationUser> UserManager { get; private set; }
 
@@ -45,10 +55,15 @@ namespace WebConsole.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = await UserManager.FindAsync(model.UserName, model.Password);
-                if (user != null)
+                //var user = await UserManager.FindAsync(model.UserName, model.Password);
+                //if (user != null)
+                //{
+                //    await SignInAsync(user, model.RememberMe);
+                //    return RedirectToLocal(returnUrl);
+                //}
+                var status = _gateWay.ValidateUser(new PMUser(){ UserName = model.UserName, Password = model.Password });
+                if(status)
                 {
-                    await SignInAsync(user, model.RememberMe);
                     return RedirectToLocal(returnUrl);
                 }
                 else
