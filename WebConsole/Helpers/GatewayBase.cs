@@ -5,7 +5,6 @@ using System.ServiceModel;
 using System.ServiceModel.Description;
 using System.Web;
 using System.Threading;
-//using OpenXposure.Web.Helpers;
 using WebConsole.Interfaces;
 
 namespace WebConsole.Helpers
@@ -111,7 +110,6 @@ namespace WebConsole.Helpers
         if (!this.ChannelFactoryCache.ContainsKey(this.EndpointName))
         {
           ChannelFactory<S> channelFactory = new ChannelFactory<S>(this.EndpointName);
-          //channelFactory.Endpoint.EndpointBehaviors.Add(IEndpointBehavior);
           this.ChannelFactoryCache.Add(this.EndpointName, (object) channelFactory);
         }
       }
